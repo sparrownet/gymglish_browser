@@ -1,10 +1,10 @@
 # gymglish_browser
 
-This is a demo app for my application to the Android Developer open position @ Gymglish.\nTo login, please use the following credentials:
+This is a demo app for my application to the Android Developer open position @ Gymglish.  To login, please use the following credentials:
 
-username: davidi\n
-password: 123456
+username: davidi  
+password: 123456  
 
-Author:\n
-Dror Davidi\n
-drordavidi@gmail.com
+Author:  
+Dror Davidi  
+drordavidi@gmail.com  
