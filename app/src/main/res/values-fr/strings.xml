@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gymglish Browser</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="login_button">Connecter</string>
+    <string name="about">À propos de l\'application</string>
+    <string name="err_msg_input">Entrée invalide</string>
+    <string name="err_msg_credentials">Informations d\'identification non valides</string>
+    <string name="err_msg_internet">Tu es hors ligne</string>
+    <string name="loading_page">Chargement de la page…</string>
+</resources>
