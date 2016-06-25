@@ -1,6 +1,6 @@
 # gymglish_browser
 
-This is a demo app launching Gymglish websites.  
+This is a demo app for launching Gymglish websites.  
 To login, please use the following credentials:
 
 username: davidi  
